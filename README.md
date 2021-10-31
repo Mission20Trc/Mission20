@@ -4,5 +4,5 @@ M20Token Address: TL2eMDoxXCycU5FnEHBN1rMNyfqbZDHbJo
 
 Symbol:  M20  
 Name:  Mission20 Token  
-Total Supply:  25,000,100,000 
+Total Supply:  25,000,100,000     
 Decimals:  8 
